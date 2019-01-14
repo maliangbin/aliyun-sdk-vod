@@ -1,0 +1,16 @@
+{
+    "name": "william-ma/aliyun-sdk-vod",
+    "description": "This is aliyun-sdk-vod",
+    "type": "library",
+    "require": {
+        "william-ma/aliyun-sdk-core": "1.0.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "马良彬",
+            "email": "maliangbin@hoge.cn"
+        }
+    ],
+    "minimum-stability": "stable"
+}
